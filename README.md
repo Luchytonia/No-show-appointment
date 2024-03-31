@@ -36,6 +36,7 @@ appointment = pd.read_csv('noshowappointments.csv')
 appointment.head()
 ```
 
+
 ## Data Wrangling
 #### Here we get the number of rows and columns in the data
 
