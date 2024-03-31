@@ -1,13 +1,13 @@
 # No-Show-Appointment Investigation
 ## Table of content
 
-   - [Introduction](Introduction)
+   - [Introduction](#introduction)
    
-   - [Data Wrangling](Data-Wrangling)
+   - [Data Wrangling](#data-wrangling)
    
-   - [Exploratory Data Analysis](Exploratory-Data-Analysis)
+   - [Exploratory Data Analysis](#exploratory-data-analysis)
    
-   - [Conclusion](Conclusion)
+   - [Conclusion](#conclusion)
 
 ## Introduction
 ### Dataset Description
