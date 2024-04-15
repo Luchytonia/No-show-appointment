@@ -158,7 +158,7 @@ from the pie chat above, we can see that the number of patients that went for th
 In conclusion, we have been able to look at why patients showed up and why some didnt using there age, gender and so on. From Scholarship, it turns out that people with scholarship are quite higher than those without, yet the ones with scholarship didnt turn up much. so we cant say that its because of funding that made them cancel for Age,its quite mixed up so the patients age has nothing to do with there turn up. same with Gender where we can see that more women registered than men yet the female turn up was low. Generally, we cant say that this factors in any way contributed to the patients turn up or no turn up
 
 ## Limitations
-The arrangement of the colunm names was a bit of a difficulty as some have capitall letters inbetween. by arrangement, i mean the way its written. from the data provided we are unable to determine the reason for show and no show appointment so we cant arrive at a onclusion, i strongly believe that we have missing informations in the dataset. our No-show column was not stated in clearer terms
+The arrangement of the colunm names was a bit of a difficulty as some have capitall letters inbetween. by arrangement, i mean the way its written. from the data provided we are unable to determine the reason for show and no show appointment so we cant arrive at a conclusion, i strongly believe that we have missing informations in the dataset. our No-show column was not stated in clearer terms
 
 
 
